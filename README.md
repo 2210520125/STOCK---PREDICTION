@@ -52,7 +52,7 @@ To build a predictive model that:
 Make sure Python is installed, then run:
 
 ```bash
-git clone https://github.com/Sridhar2803/Stock-Price-Prediction-.git
+git clone https://github.com/2210520125/STOCK---PREDICTION.git
 cd Stock-Price-Prediction-
 pip install -r requirements.txt
 ```
